@@ -1,0 +1,19 @@
+ ${AnsiColor.BRIGHT_YELLOW}
+   SSSSSSSSSSSSSSS              AAA               NNNNNNNN        NNNNNNNNDDDDDDDDDDDDD                  AAA
+ SS:::::::::::::::S            A:::A              N:::::::N       N::::::ND::::::::::::DDD              A:::A
+S:::::SSSSSS::::::S           A:::::A             N::::::::N      N::::::ND:::::::::::::::DD           A:::::A
+S:::::S     SSSSSSS          A:::::::A            N:::::::::N     N::::::NDDD:::::DDDDD:::::D         A:::::::A
+S:::::S                     A:::::::::A           N::::::::::N    N::::::N  D:::::D    D:::::D       A:::::::::A
+S:::::S                    A:::::A:::::A          N:::::::::::N   N::::::N  D:::::D     D:::::D     A:::::A:::::A
+ S::::SSSS                A:::::A A:::::A         N:::::::N::::N  N::::::N  D:::::D     D:::::D    A:::::A A:::::A
+  SS::::::SSSSS          A:::::A   A:::::A        N::::::N N::::N N::::::N  D:::::D     D:::::D   A:::::A   A:::::A
+    SSS::::::::SS       A:::::A     A:::::A       N::::::N  N::::N:::::::N  D:::::D     D:::::D  A:::::A     A:::::A
+       SSSSSS::::S     A:::::AAAAAAAAA:::::A      N::::::N   N:::::::::::N  D:::::D     D:::::D A:::::AAAAAAAAA:::::A
+            S:::::S   A:::::::::::::::::::::A     N::::::N    N::::::::::N  D:::::D     D:::::DA:::::::::::::::::::::A
+            S:::::S  A:::::AAAAAAAAAAAAA:::::A    N::::::N     N:::::::::N  D:::::D    D:::::DA:::::AAAAAAAAAAAAA:::::A
+SSSSSSS     S:::::S A:::::A             A:::::A   N::::::N      N::::::::NDDD:::::DDDDD:::::DA:::::A             A:::::A
+S::::::SSSSSS:::::SA:::::A               A:::::A  N::::::N       N:::::::ND:::::::::::::::DDA:::::A               A:::::A
+S:::::::::::::::SSA:::::A                 A:::::A N::::::N        N::::::ND::::::::::::DDD A:::::A                 A:::::A
+ SSSSSSSSSSSSSSS AAAAAAA                   AAAAAAANNNNNNNN         NNNNNNNDDDDDDDDDDDDD   AAAAAAA                   AAAAAAA
+${AnsiColor.BRIGHT_BLUE}
+::: Project (version:${application.version}) :::              Spring-Boot ${spring-boot.version}
